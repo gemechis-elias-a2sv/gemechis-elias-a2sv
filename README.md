@@ -7,5 +7,5 @@
 </h3>
 
 
-Check out my main account <a href="https://github.com/gemechis-elias">@Gemechis Elias</a> For more updates.
+Check out my main account <a href="https://github.com/chisa-dev">@Gemechis Elias</a> For more updates.
 
